@@ -48,6 +48,7 @@ void PrintTree(TreeNode<int> *root)
         PrintTree(root->children[i]);
     }
 }
+
 int main()
 {
     clock_t t_start = clock();

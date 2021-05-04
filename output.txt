@@ -1,4 +1,25 @@
-11
-10
-11
-10
+Enter Data: 
+Enter No of Children Of 1 
+Enter Data: 
+Enter No of Children Of 2 
+Enter Data: 
+Enter No of Children Of 5 
+Enter Data: 
+Enter No of Children Of 6 
+Enter Data: 
+Enter No of Children Of 3 
+Enter Data: 
+Enter No of Children Of 7 
+Enter Data: 
+Enter No of Children Of 4 
+Enter Data: 
+Enter No of Children Of 8 
+1 : {2 , 3 , 4}
+2 : {5 , 6}
+5 : {}
+6 : {}
+3 : {7}
+7 : {}
+4 : {8}
+8 : {}
+Execution Time: 0.01 Seconds
