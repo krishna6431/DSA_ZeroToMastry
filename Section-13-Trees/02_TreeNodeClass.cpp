@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <time.h>
+#include <vector>
 using namespace std;
 template <typename T>
 class TreeNode
@@ -19,10 +20,10 @@ public:
 int main()
 {
     clock_t t_start = clock();
-#ifndef ONLINE_JUDGE
-    freopen("../input.txt", "r", stdin);
-    freopen("../output.txt", "w", stdout);
-#endif
+    // #ifndef ONLINE_JUDGE
+    //     freopen("../input.txt", "r", stdin);
+    //     freopen("../output.txt", "w", stdout);
+    // #endif
     TreeNode<int> *root = new TreeNode<int>(1);
     TreeNode<int> *n1 = new TreeNode<int>(2);
     TreeNode<int> *n2 = new TreeNode<int>(3);
