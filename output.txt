@@ -1,19 +1,19 @@
-Enter Data: 
-Enter No of Children Of 1 
-Enter Data: 
-Enter No of Children Of 2 
-Enter Data: 
-Enter No of Children Of 5 
-Enter Data: 
-Enter No of Children Of 6 
-Enter Data: 
-Enter No of Children Of 3 
-Enter Data: 
-Enter No of Children Of 7 
-Enter Data: 
-Enter No of Children Of 4 
-Enter Data: 
-Enter No of Children Of 8 
+Enter Root Data: 
+Enter No of Child of 1 : 
+Enter 1 th Child of 1 : 
+Enter 2 th Child of 1 : 
+Enter 3 th Child of 1 : 
+Enter No of Child of 2 : 
+Enter 1 th Child of 2 : 
+Enter 2 th Child of 2 : 
+Enter No of Child of 3 : 
+Enter 1 th Child of 3 : 
+Enter No of Child of 4 : 
+Enter 1 th Child of 4 : 
+Enter No of Child of 5 : 
+Enter No of Child of 6 : 
+Enter No of Child of 7 : 
+Enter No of Child of 8 : 
 1 : {2 , 3 , 4}
 2 : {5 , 6}
 5 : {}
@@ -22,4 +22,4 @@ Enter No of Children Of 8
 7 : {}
 4 : {8}
 8 : {}
-Execution Time: 0.01 Seconds
+Execution Time: 0.00 Seconds
