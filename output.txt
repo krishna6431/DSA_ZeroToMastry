@@ -14,12 +14,5 @@ Enter No of Child of 5 :
 Enter No of Child of 6 : 
 Enter No of Child of 7 : 
 Enter No of Child of 8 : 
-1 : {2 ,3 ,4}
-2 : {5 ,6}
-3 : {7}
-4 : {8}
-5 : {}
-6 : {}
-7 : {}
-8 : {}
-Execution Time: 0.01 Seconds
+Total No of Nodes: 8
+Execution Time: 0.00 Seconds
