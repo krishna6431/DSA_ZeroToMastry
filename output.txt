@@ -19,4 +19,6 @@ Height of Tree: 3
 Nodes at Level 2 are: 5 6 7 8 
 No of Leaf Nodes: 4
 No of Leaf Node in Other Way: 4
-Execution Time: 0.00 Seconds
+PreOrderTraversal: 1 2 5 6 3 7 4 8 
+PostOrderTraversal: 5 6 2 7 3 8 4 1 
+Execution Time: 0.01 Seconds
