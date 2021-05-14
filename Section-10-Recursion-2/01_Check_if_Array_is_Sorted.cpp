@@ -61,6 +61,11 @@ bool isSorted3(int a[], int n)
 
 int main()
 {
+    // #ifndef ONLINE_JUDGE
+    //     freopen("../input.txt", "r", stdin);
+    //     freopen("../output.txt", "w", stdout);
+    // #endif
+
     int a[] = {1, 2, 3, 4, 5};
     if (isSorted(a, 5))
     {
