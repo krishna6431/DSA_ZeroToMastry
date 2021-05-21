@@ -7,3 +7,10 @@ Updated List:
 10->43->17->28->7->11->5->15->NULL
 Updated List: 
 13->10->43->17->28->7->11->5->15->NULL
+*****After Deletion*****
+Updated List: 
+13->10->17->28->7->11->5->15->NULL
+Updated List: 
+13->10->17->28->7->11->5->NULL
+Updated List: 
+10->17->28->7->11->5->NULL
