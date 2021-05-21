@@ -1,7 +1,9 @@
 In Forward Dir: 
 10->43->28->7->11->5->NULL
 Length of Linked List: 6
-Node at Pos 3(0-based) is : 7
-Node at Pos 6(0-based) is : Invalid Position : -1
-Node at Pos 3(0-based) is : 7
-Node at Pos 6(0-based) is : -1
+Updated List: 
+10->43->17->28->7->11->5->NULL
+Updated List: 
+10->43->17->28->7->11->5->15->NULL
+Updated List: 
+13->10->43->17->28->7->11->5->15->NULL
