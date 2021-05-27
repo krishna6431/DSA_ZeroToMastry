@@ -1,6 +1,7 @@
 In Forward Dir: 
 10->43->28->7->11->5->NULL
 Length of Linked List: 6
+Length of Linked List(rec): 6
 Updated List: 
 10->43->17->28->7->11->5->NULL
 Updated List: 
