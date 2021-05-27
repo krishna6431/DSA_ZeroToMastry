@@ -12,7 +12,9 @@ Updated List:
 Updated List: 
 13->10->17->28->7->11->5->15->NULL
 Updated List: 
+Middle Node : 28->7->11->5->NULL
 13->10->17->28->7->11->5->NULL
 Updated List: 
 10->17->28->7->11->5->NULL
 19 is Not Present
+Middle Node : 7->11->5->NULL
