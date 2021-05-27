@@ -15,3 +15,4 @@ Updated List:
 13->10->17->28->7->11->5->NULL
 Updated List: 
 10->17->28->7->11->5->NULL
+19 is Not Present
