@@ -18,3 +18,5 @@ Updated List:
 10->17->28->7->11->5->NULL
 19 is Not Present
 Middle Node : 7->11->5->NULL
+Reversed-List: 
+5->11->7->28->17->10->NULL
