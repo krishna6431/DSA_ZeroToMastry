@@ -359,8 +359,8 @@ int main()
     printList(head_temp);
 
     cout << "Reversed-List: " << endl;
-    Node *head3 = reverseList(head);
-    printList(head3);
+    Node *head_tmp = reverseList(head);
+    printList(head_tmp);
     // cout << "Node at Pos 3(0-based) is : ";
     // print_ith_node_2(head, 3);
     // cout << "Node at Pos 6(0-based) is : ";
