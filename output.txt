@@ -20,3 +20,5 @@ Updated List:
 Middle Node : 7->11->5->NULL
 Reversed-List: 
 5->11->7->28->17->10->NULL
+Removing Kth Node: 
+5->11->7->17->10->NULL
