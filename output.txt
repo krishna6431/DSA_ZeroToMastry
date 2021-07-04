@@ -1,24 +1,14 @@
-In Forward Dir: 
-10->43->28->7->11->5->NULL
-Length of Linked List: 6
-Length of Linked List(rec): 6
-Updated List: 
-10->43->17->28->7->11->5->NULL
-Updated List: 
-10->43->17->28->7->11->5->15->NULL
-Updated List: 
-13->10->43->17->28->7->11->5->15->NULL
-*****After Deletion*****
-Updated List: 
-13->10->17->28->7->11->5->15->NULL
-Updated List: 
-Middle Node : 28->7->11->5->NULL
-13->10->17->28->7->11->5->NULL
-Updated List: 
-10->17->28->7->11->5->NULL
-19 is Not Present
-Middle Node : 7->11->5->NULL
-Reversed-List: 
-5->11->7->28->17->10->NULL
-Removing Kth Node: 
-5->11->7->17->10->NULL
+Pushing Element
+Pushing Element
+Pushing Element
+Pushing Element
+Pushing Element
+Stack Overflow
+TopElement: 40
+Poped Element
+TopElement: 30
+Poped Element
+TopElement: 20
+Poped Element
+Size: 1
+isEmpty: 0
