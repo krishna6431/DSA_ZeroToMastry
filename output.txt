@@ -1,10 +1,2 @@
-Capacity : 0
-Pushing Element
-Pushing Element
-Pushing Element
-Pushing Element
-Capacity: 4
-Pushing Element
-Capacity : 8
-Size: 5
-isEmpty: 0
+1 2
+1.5 2.22
