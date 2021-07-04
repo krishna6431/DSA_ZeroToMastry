@@ -1,14 +1,10 @@
+Capacity : 0
 Pushing Element
 Pushing Element
 Pushing Element
 Pushing Element
+Capacity: 4
 Pushing Element
-Stack Overflow
-TopElement: 40
-Poped Element
-TopElement: 30
-Poped Element
-TopElement: 20
-Poped Element
-Size: 1
+Capacity : 8
+Size: 5
 isEmpty: 0
