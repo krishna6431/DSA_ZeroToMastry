@@ -1,9 +1,2 @@
-Top: 6
-Top: 5
-Size: 4
-isEmpty: 0
-Current Top: 4
-Current Top: 3
-Current Top: 2
-Current Top: 1
-Size: 0
+Output: abc
+Output: cba
