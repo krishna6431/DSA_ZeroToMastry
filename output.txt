@@ -1,2 +1,1 @@
-Output: abc
-Output: cba
+Input: Length is: 7
