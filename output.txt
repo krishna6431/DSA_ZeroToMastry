@@ -1,4 +1,4 @@
 Input
-krishna
+krishnaa
 Output:
-krishn
+krishna
