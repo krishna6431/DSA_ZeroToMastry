@@ -1,4 +1,4 @@
 Input
 krishna
 Output:
-krishnx
+krishn
