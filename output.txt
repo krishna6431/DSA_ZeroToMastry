@@ -1,21 +1,4 @@
-Input1: 
-Input2: 
-Output Using String: 
-abc
-ab
-ac
-a
-bc
-b
-c
-
-
-Output Using Character Array: 
-
-c
-b
-bc
-a
-ac
-ab
-abc
+Input
+dcc
+Output:
+dc
