@@ -1,2 +1,3 @@
 Input: 
-13
+Output: 
+31
